@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="RealtyAgency.ConsoleApp/RealtyAgency.ConsoleApp.csproj" />
+  <Project Path="RealtyAgency.Core/RealtyAgency.Core.csproj" />
+</Solution>

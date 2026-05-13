@@ -1,0 +1,11 @@
+D:\КПІ навчання\ооп\лб8\RealtyAgency.Core\bin\Debug\net10.0\RealtyAgency.Core.deps.json
+D:\КПІ навчання\ооп\лб8\RealtyAgency.Core\bin\Debug\net10.0\RealtyAgency.Core.dll
+D:\КПІ навчання\ооп\лб8\RealtyAgency.Core\bin\Debug\net10.0\RealtyAgency.Core.pdb
+D:\КПІ навчання\ооп\лб8\RealtyAgency.Core\obj\Debug\net10.0\RealtyAgency.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\КПІ навчання\ооп\лб8\RealtyAgency.Core\obj\Debug\net10.0\RealtyAgency.Core.AssemblyInfoInputs.cache
+D:\КПІ навчання\ооп\лб8\RealtyAgency.Core\obj\Debug\net10.0\RealtyAgency.Core.AssemblyInfo.cs
+D:\КПІ навчання\ооп\лб8\RealtyAgency.Core\obj\Debug\net10.0\RealtyAgency.Core.csproj.CoreCompileInputs.cache
+D:\КПІ навчання\ооп\лб8\RealtyAgency.Core\obj\Debug\net10.0\RealtyAgency.Core.dll
+D:\КПІ навчання\ооп\лб8\RealtyAgency.Core\obj\Debug\net10.0\refint\RealtyAgency.Core.dll
+D:\КПІ навчання\ооп\лб8\RealtyAgency.Core\obj\Debug\net10.0\RealtyAgency.Core.pdb
+D:\КПІ навчання\ооп\лб8\RealtyAgency.Core\obj\Debug\net10.0\ref\RealtyAgency.Core.dll

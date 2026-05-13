@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "RealtyAgency.Core/1.0.0": {
+        "runtime": {
+          "RealtyAgency.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RealtyAgency.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
