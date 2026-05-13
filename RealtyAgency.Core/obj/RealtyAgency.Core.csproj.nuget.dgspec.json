@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\КПІ навчання\\ооп\\лб8\\RealtyAgency.Core\\RealtyAgency.Core.csproj": {}
+    "D:\\КПІ навчання\\ооп\\лаб8\\RealtyAgency.Core\\RealtyAgency.Core.csproj": {}
   },
   "projects": {
-    "D:\\КПІ навчання\\ооп\\лб8\\RealtyAgency.Core\\RealtyAgency.Core.csproj": {
+    "D:\\КПІ навчання\\ооп\\лаб8\\RealtyAgency.Core\\RealtyAgency.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\КПІ навчання\\ооп\\лб8\\RealtyAgency.Core\\RealtyAgency.Core.csproj",
+        "projectUniqueName": "D:\\КПІ навчання\\ооп\\лаб8\\RealtyAgency.Core\\RealtyAgency.Core.csproj",
         "projectName": "RealtyAgency.Core",
-        "projectPath": "D:\\КПІ навчання\\ооп\\лб8\\RealtyAgency.Core\\RealtyAgency.Core.csproj",
+        "projectPath": "D:\\КПІ навчання\\ооп\\лаб8\\RealtyAgency.Core\\RealtyAgency.Core.csproj",
         "packagesPath": "C:\\Users\\noutbook\\.nuget\\packages\\",
-        "outputPath": "D:\\КПІ навчання\\ооп\\лб8\\RealtyAgency.Core\\obj\\",
+        "outputPath": "D:\\КПІ навчання\\ооп\\лаб8\\RealtyAgency.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\noutbook\\AppData\\Roaming\\NuGet\\NuGet.Config",

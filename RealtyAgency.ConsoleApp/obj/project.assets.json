@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\КПІ навчання\\ооп\\лб8\\RealtyAgency.ConsoleApp\\RealtyAgency.ConsoleApp.csproj",
+      "projectUniqueName": "D:\\КПІ навчання\\ооп\\лаб8\\RealtyAgency.ConsoleApp\\RealtyAgency.ConsoleApp.csproj",
       "projectName": "RealtyAgency.ConsoleApp",
-      "projectPath": "D:\\КПІ навчання\\ооп\\лб8\\RealtyAgency.ConsoleApp\\RealtyAgency.ConsoleApp.csproj",
+      "projectPath": "D:\\КПІ навчання\\ооп\\лаб8\\RealtyAgency.ConsoleApp\\RealtyAgency.ConsoleApp.csproj",
       "packagesPath": "C:\\Users\\noutbook\\.nuget\\packages\\",
-      "outputPath": "D:\\КПІ навчання\\ооп\\лб8\\RealtyAgency.ConsoleApp\\obj\\",
+      "outputPath": "D:\\КПІ навчання\\ооп\\лаб8\\RealtyAgency.ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\noutbook\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "D:\\КПІ навчання\\ооп\\лб8\\RealtyAgency.Core\\RealtyAgency.Core.csproj": {
-              "projectPath": "D:\\КПІ навчання\\ооп\\лб8\\RealtyAgency.Core\\RealtyAgency.Core.csproj"
+            "D:\\КПІ навчання\\ооп\\лаб8\\RealtyAgency.Core\\RealtyAgency.Core.csproj": {
+              "projectPath": "D:\\КПІ навчання\\ооп\\лаб8\\RealtyAgency.Core\\RealtyAgency.Core.csproj"
             }
           }
         }
